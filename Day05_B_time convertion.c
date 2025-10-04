@@ -1,5 +1,5 @@
+//Q10.Write a program to input time in seconds and convert it to hours:minutes:seconds format.
 #include <stdio.h>
-
 int main() {
     int totalSeconds;
     int hours, minutes, seconds;
@@ -24,3 +24,4 @@ int main() {
 
     return 0;
 }
+
