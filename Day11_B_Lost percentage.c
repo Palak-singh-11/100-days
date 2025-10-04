@@ -1,3 +1,4 @@
+//Q22.Write a program to find profit or loss percentage given cost price and selling price.
 #include <stdio.h>
 int main() {
     float cp, sp, profit, loss, percent;
@@ -26,3 +27,4 @@ int main() {
 
     return 0;
 }
+
