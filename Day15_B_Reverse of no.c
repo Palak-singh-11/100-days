@@ -1,3 +1,4 @@
+//Q30.Write a program to reverse a given number.
 #include <stdio.h>
 int main() {
     int num, reversed = 0, remainder;
@@ -13,3 +14,4 @@ int main() {
 
     return 0;
 }
+
