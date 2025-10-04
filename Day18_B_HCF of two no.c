@@ -1,5 +1,5 @@
+//Q36.Write a program to find the HCF (GCD) of two numbers.
 #include <stdio.h>
-
 int main() {
     int num1, num2, i, hcf;
 
@@ -17,3 +17,4 @@ int main() {
 
     return 0;
 }
+
