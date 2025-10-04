@@ -1,5 +1,5 @@
+//Q8.Write a program to swap two numbers without using a third variable.
 #include <stdio.h>
-
 int main() {
     int n;
     int sum = 0;
@@ -24,3 +24,4 @@ int main() {
 
     return 0;
 }
+
