@@ -1,3 +1,4 @@
+//Q38.Write a program to find the sum of digits of a number.
 #include <stdio.h>
 int main() {
     int num, sum = 0, remainder;
@@ -16,3 +17,4 @@ int main() {
 
     return 0;
 }
+
